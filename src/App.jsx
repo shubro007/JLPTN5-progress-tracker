@@ -5,7 +5,7 @@ import './App.css'
 import {Comp} from './components/Comp'
 import DropdownTableWithProgress from './components/Drop'
 import { LearningProgressTracker } from './components/Drop2'
-import tableData from './components/data'
+import tableData from './components/Data'
 import { Daysleft } from './components/Daysleft'
 import { Image } from './components/Image'
 
